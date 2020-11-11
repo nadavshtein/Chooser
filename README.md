@@ -1,5 +1,5 @@
 # Chooser
-<h3> Android app which randomly assigns players into groups or choosing individual players - with your fingers! <h3/>
+<h3> Choose and group people using your fingers! (Android App) <h3/>
   <br/>
 <img src="Images/Screenshot_2020-10-23-13-26-59-787_com.example.myapp10.jpg" width="30%">
 <img src="Images/Screenshot_2020-10-23-13-27-20-369_com.example.myapp10.jpg" width="30%"> 
